@@ -13,3 +13,20 @@ ok. updates!! 07/17/2026
 we gonna get a 0.91" I2C OLED
 and yeah
 about 23 GPIO pins used
+07/19/2026
+uhhhh
+no. we are not getting a orpheus pico
+so we gonna get the nice!nano 
+which supports eventually 8k polling
+but yeah
+im working on the PCB design
+linking all the diodes w/ the switches
+found this thing called kbplacer
+so it automatically places my switches n diodes
+in my keyboard layout 
+which makes life easier
+and yeah
+thats it
+learned how diodes n stuff
+and how kicad works in general
+gn!
