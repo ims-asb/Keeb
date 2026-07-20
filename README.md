@@ -14,7 +14,7 @@ we gonna get a 0.91" I2C OLED
 and yeah
 about 23 GPIO pins used
 <img width="1500" height="880" alt="Screenshot 2026-07-19 at 8 52 14 PM" src="https://github.com/user-attachments/assets/d801cca3-aa73-4f59-8101-7fdd556314d5" />
-
+more stuff, too lazy to do tho
 07/19/2026
 uhhhh
 (abt 5 or so hrs)
