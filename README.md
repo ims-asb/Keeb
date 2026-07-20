@@ -13,8 +13,11 @@ ok. updates!! 07/17/2026
 we gonna get a 0.91" I2C OLED
 and yeah
 about 23 GPIO pins used
+<img width="1500" height="880" alt="Screenshot 2026-07-19 at 8 52 14 PM" src="https://github.com/user-attachments/assets/d801cca3-aa73-4f59-8101-7fdd556314d5" />
+
 07/19/2026
 uhhhh
+(abt 5 or so hrs)
 no. we are not getting a orpheus pico
 so we gonna get the nice!nano 
 which supports eventually 8k polling
@@ -30,3 +33,6 @@ thats it
 learned how diodes n stuff
 and how kicad works in general
 gn!
+(all day, 12 hrs. kicad is hard lol)
+<img width="634" height="598" alt="Screenshot 2026-07-19 at 8 47 33 PM" src="https://github.com/user-attachments/assets/63ae5344-140e-41c3-860b-28e940a5e94f" />
+
