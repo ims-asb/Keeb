@@ -36,3 +36,12 @@ gn!
 (all day, 12 hrs. kicad is hard lol)
 <img width="634" height="598" alt="Screenshot 2026-07-19 at 8 47 33 PM" src="https://github.com/user-attachments/assets/63ae5344-140e-41c3-860b-28e940a5e94f" />
 
+07/20/2026
+ok, so worked for an hr so far
+close to finishing the pcb design
+yeah
+prob took an hr
+was linking diodes n switches together
+yeah
+thats for now
+im not braining
