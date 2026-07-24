@@ -20,14 +20,9 @@ uhhhh
 (abt 5 or so hrs)
 no. we are not getting a orpheus pico
 so we gonna get the nice!nano 
-which supports eventually 8k polling
+which supports eventually 8k polling which i want
 but yeah
 im working on the PCB design
-linking all the diodes w/ the switches
-found this thing called kbplacer
-so it automatically places my switches n diodes
-in my keyboard layout 
-which makes life easier
 and yeah
 thats it
 learned how diodes n stuff
@@ -41,7 +36,10 @@ ok, so worked for an hr so far
 close to finishing the pcb design
 yeah
 prob took an hr
-was linking diodes n switches together
 yeah
 thats for now
 im not braining
+1 hr
+07/23/2026
+yeah
+finished pcb design
