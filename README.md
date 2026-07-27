@@ -1,10 +1,11 @@
 # Keeb
 so my idea for a keyboard for keeb is
-a modified 96% ANSI keyboard with
+a modified 96% ANSI keyboard with, for the twist,
 an oled screen
 a I2C knob
 RGB underglow
 and potentially 8K polling
+
 im gonna use the Orpheus Pico as the MCU
 and yeah
 more updates coming later
@@ -43,3 +44,9 @@ im not braining
 07/23/2026
 yeah
 finished pcb design
+07/27/2026
+no i didnt. bruhhhhhhhhhhhhhhhhhhhhhhhhh
+by the way, i needed 2 pins extra for the actual keys. so i had to add a part (which i hate), the mcp23017. this gives me some more pins i could use.
+but anyways, im done!
+i did some work yesterday, but i was too tired and forgot to submit the log for yesterday, so yeah
+3 hrs yesterday + 
