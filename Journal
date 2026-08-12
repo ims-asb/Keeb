@@ -14,7 +14,7 @@ I added the MCP23017, basically to expand my pin count a bit
 I also watched a few youtube videos on kicad, and i learned how to change units on some stuff
 And i finagled with the MCP and nano
 
-08/02/2026-09/2026
+08/02/2026-08/09/2026
 This week, I worked on finishing up the pcb
 And then i realized i forgot to add leds
 So i did that
@@ -23,6 +23,9 @@ Like how it was insanity to route
 And how the diode's pads glued to the switch's pad
 So
 I fixed them
+08/10/2026-8/17-2026
+I realized that the LEDs arent actually on the plate, but are on the back and have a hole to shine through
+
 :)
 # Keeb
 so my idea for a keyboard for keeb is
@@ -128,3 +131,15 @@ there were some other led problems
 but yeah thats it
 4 hrs
 08/11/2026
+Hi.
+YEah.
+The leds didnt work.
+I tried making them northup.
+They don't work.
+South, same thing.
+Left is hella weird. 
+So. 
+wait uh nvm
+its at back so it doesnt matter anyways XD
+this is kinda stupid
+3 hrs
