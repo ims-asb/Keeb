@@ -108,7 +108,7 @@ so i took a little break from keeb, heres whats going on!
 1. i forgot to add leds. im doing that rn. 
 2, im switching to hotswap switches
 so i have to change the footprints
-upd: i did the first, not the second
+upd: i did the first, and tried the second. it didnt work
 so im doing that tmr
 2 hrs today
 08/05/2026
@@ -117,8 +117,9 @@ im doing the hotswap switches rn
 i gave it a shot yesterday, but it completely sh*tted my brain
 so im doing it today
 1 hr
+(i also 
 08/06/2026
-ok. i finished it yesterday
+ok. i finished the hotswap switches
 my brain was fried so i didnt get to add much else
 also, this is taking quite a bit of time
 so i kinda wanna just wrap this up
@@ -128,12 +129,7 @@ just getting really tired of doing kicad
 really confusing
 hundreds of errors and warnings
 4 hrs :(
-08/07/2026
-ok
-i fixed everything!!!
-we almost done the pcb
-i just wanna add some silkscreen art
-2 hrs
+(i sadly dont have a photo for this. really tired)
 08/09/2026
 hello
 so 
@@ -149,8 +145,12 @@ this is kinda insane
 uhm
 yeah thats basically what happend 💀
 there were some other led problems
-but yeah thats it
+and yeah, mill-max switches are too expensive
+so i switched to kalih hotswap switches
+theyre cheaper
 4 hrs
+https://cdn.phototourl.com/free/2026-08-14-67eb93e0-09e8-473c-a146-9330d93bb8ab.webp
+
 08/11/2026
 Hi.
 YEah.
@@ -164,6 +164,8 @@ wait uh nvm
 its at back so it doesnt matter anyways XD
 this is kinda stupid
 3 hrs
+https://cdn.phototourl.com/free/2026-08-14-bb5324b8-3c57-4740-8c53-ca2875367040.webp
+what happened when i tried to put leds on the left 😭
 08/12/2026
 ok
 uhh
@@ -179,4 +181,28 @@ cuz the only different stuff is that
 3, leds were still named D instead of LED
 so yeah
 eveyrthing else was fine tho
+1 hr
+https://cdn.phototourl.com/free/2026-08-14-2dcdc610-ba33-4833-9f9d-150a059c6909.png
 08/13/2026
+so the board wasnt fully drc clean, had 209 violations when i hopped off yesterday
+but 199 of them were cuz power to the leds were too close (under 0.5mm clearance)
+but i did some research
+and it seems like thats way too strict
+cuz jlcpcb can support minimal of 0.2mm
+so i set my board rule to 0.22mm for some wiggle room
+and that basically cleared everything 
+other than a few stragglers
+which i did by hand
+but i also had a short
+where both nano battery pins were labeled differently
+so i labeled them the same
+second to last thing, there were 26 matrix gaps so i fixed those
+and finally, i added more detail to this journal
+cuz i was really lazy
+but after 6 hrs of work
+0 errors on the pcb!!!
+im gonna add some silkscreen art tmr
+then im gonna move to the case!
+6 hrs
+https://cdn.phototourl.com/free/2026-08-14-fb163dd6-1428-43de-a129-8ac2ebec5188.png
+amazing rerouting work
