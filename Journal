@@ -49,7 +49,7 @@ i also switched it to back copper
 and i finally fixed every pcb warning and error
 
 :)
-# Keeb
+*NORMAL JOURNAL*
 so my idea for a keyboard for keeb is
 a modified 96% ANSI keyboard with, for the twist,
 an oled screen
@@ -69,27 +69,18 @@ about 23 GPIO pins used
 more stuff, too lazy to do tho
 07/19/2026
 uhhhh
-(abt 5 or so hrs)
 no. we are not getting a orpheus pico
 so we gonna get the nice!nano 
 which supports eventually 8k polling which i want
 but yeah
 im working on the PCB design
-and yeah
-thats it
-learned how diodes n stuff
-and how kicad works in general
+specifically connecting them diodes and switches
+and learning how kicad works in general
 gn!
 (all day, 12 hrs. kicad is hard lol)
 <img width="634" height="598" alt="Screenshot 2026-07-19 at 8 47 33 PM" src="https://github.com/user-attachments/assets/63ae5344-140e-41c3-860b-28e940a5e94f" />
 
-07/23/2026
-yeah
-finished pcb design
-1 hr
 07/27/2026
-1 hr
-no i didnt. bruhhhhhhhhhhhhhhhhhhhhhhhhh
 by the way, i needed 2 pins extra for the actual keys. so i had to add a part (which i hate), the mcp23017. this gives me some more pins i could use.
 but anyways, im done!
 i did some work yesterday, but i was too tired and forgot to submit the log for yesterday, so yeah
