@@ -1,4 +1,5 @@
 *Refined version*, cuz my actual journal sucks and is really messy. please read this one!!!
+NOTE: I do not inflate my hours. I just am really slow. And this is my first ship, so i have a lot of stuff to learn.
 07/17/2026-07/24/2026
 Decided to pick this up, made my parts list here (i have changed a bit of stuff since then)
 <img width="1500" height="880" alt="Screenshot 2026-07-19 at 8 52 14 PM" src="https://github.com/user-attachments/assets/d801cca3-aa73-4f59-8101-7fdd556314d5" />
@@ -38,7 +39,8 @@ it just decided to flip me off and remove all the wiring
 so
 i decided to use freerouting
 and, like kbp, it saves time and effort
-
+I also decided on using kalih hot swap switches
+and use 
 And, my diode's pads glued to the switch's pad
 which meant courtyard collisions
 So
@@ -190,3 +192,33 @@ then im gonna move to the case!
 6 hrs
 https://cdn.phototourl.com/free/2026-08-14-fb163dd6-1428-43de-a129-8ac2ebec5188.png
 amazing rerouting work
+08/14/2026
+ok, so
+i swapped to the kalh switches (CPG151101S11)
+so it can hot-swap
+and then i ran into a issue where the kalih switches are ever so slightly larger than the normal ones
+so 
+i had to kbp them again
+so i fixed that
+and then i had a mini heart attack
+cuz when i was turning on freerouting to pick up some stragglers
+i accidentally like
+closed java instead of pressing the terminate button
+so 
+i freaked out for a bit
+and then
+i tried it again
+and it came back!!
+that scared the hell out of me
+but anyways
+i finished the last stragglers (113!!! that freerouting didnt route)
+and yeah
+drc clean!
+im currently working on the case
+this is my kind of specialty
+cuz i'm starting a 3d printing business
+and i know how to 3d model
+so yeah!
+btw, for the case, i chose the top mount with padding, aka "poor man's gasket" mount. i also am adding kickstand legs to the case.
+i also decided that it would be black with red accents (like my kitchen lol) and the pcb would be black, so the silkscreen would be white.
+6 hrs
