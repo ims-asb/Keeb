@@ -48,8 +48,10 @@ I fixed them
 08/10/2026-8/17-2026
 I realized that the LEDs arent actually on the front of the plate, but are on the back and have a hole to shine through
 i also switched it to back copper
-and i finally fixed every pcb warning and error
-
+and i finally fixed every pcb warning and error (209)
+i have now added silkscreen, which means there will be errors
+but they're all cosmetic soooo
+its fine
 :)
 *NORMAL JOURNAL*
 so my idea for a keyboard for keeb is
@@ -211,6 +213,8 @@ i tried it again
 and it came back!!
 that scared the hell out of me
 but anyways
+i had like 209 drc errors
+but then i checked jlcpcb's minimum board clearance
 i finished the last stragglers (113!!! that freerouting didnt route)
 and yeah
 drc clean!
@@ -222,3 +226,17 @@ so yeah!
 btw, for the case, i chose the top mount with padding, aka "poor man's gasket" mount. i also am adding kickstand legs to the case.
 i also decided that it would be black with red accents (like my kitchen lol) and the pcb would be black, so the silkscreen would be white.
 6 hrs
+08/16/2026
+ok
+ehm
+i took a day break
+but 
+i did some bit of progress
+i moved the 4pin encoder so it has enough clearance between the screen
+https://cdn.phototourl.com/free/2026-08-17-d89a887b-1f1f-422b-9688-a50732051218.png
+yeah that was basically it 💀
+i did start on the case though
+1hr
+08/17/2026
+silkscreen!!!!
+im also starting to work on the case
