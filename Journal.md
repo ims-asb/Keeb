@@ -12,6 +12,8 @@ I also decided what specs I want.
 
 I used KLE (https://www.keyboard-layout-editor.com/) to make a layout for my keyobard in JSON, then used KBPlacer on Kicad to actually place the stuff on the pcb for me which saves a lot of time and is also more accurate cuz it doesnt have the natural problems of accuracy that we, mere humans, do
 
+<img width="634" height="598" alt="Screenshot 2026-07-19 at 8 47 33 PM" src="https://github.com/user-attachments/assets/63ae5344-140e-41c3-860b-28e940a5e94f" />
+
 So what i did between this time, i learned kicad, how to add stuff, wire, etc
 
 also learned about label connections. basically, instead of drawing a wire across the schematic to connect some stuff, i can just slap a label on both ends and kicad counts them as labeled
@@ -24,6 +26,8 @@ Only really did two days, cuz my dad grounded me for the rest
 
 I added the MCP23017, basically to expand my pin count a bit cuz the nano didnt have enough GPIO left for my matrix so i added the mcp which talks over i2c and gives me a buncha pins without needing more from the nano
 
+<img width="324" height="435" alt="Screenshot 2026-08-24 at 9 14 50 AM" src="https://github.com/user-attachments/assets/92026b3e-670f-459d-8a5c-c107367609d1" />
+
 I also watched a few youtube videos on kicad, and i learned how to change units on some stuff
 
 And i finagled with the MCP and nano, aka wiring sda/scl between them to do the above
@@ -34,19 +38,39 @@ This week, I worked on finishing up the pcb
 
 And then i realized i forgot to add leds. So i did that. And there was a buncha problems, like how it was insanity for freerouting to route
 
+(this is a reenactment of the leds, the leds were still labeled "d". so please pretend that they are labeled "d" instead of "led")
+<img width="739" height="755" alt="Screenshot 2026-08-24 at 9 21 53 AM" src="https://github.com/user-attachments/assets/87125486-7ea1-443e-9d0c-73da04db7c8d" />
+
 oh and did i mention that i was using freerouting? prob not but cuz like after i wired all the switches n stuff together for some reason it just decided to flip me off and remove all the wiring so i decided to use freerouting, and, like kbp, it saves time and effort
 
 I also decided on using kalih hot swap switches and use
 
+<img width="1240" height="610" alt="Screenshot 2026-08-24 at 9 24 46 AM" src="https://github.com/user-attachments/assets/96445b42-f1df-40c8-93dc-10a9d57dd6d2" />
+
 And, my diode's pads glued to the switch's pad which meant courtyard collisions. So I fixed them
+
+https://cdn.phototourl.com/free/2026-08-14-67eb93e0-09e8-473c-a146-9330d93bb8ab.webp
 
 ## 08/10/2026-08/17/2026
 
 I realized that the LEDs arent actually on the front of the plate, but are on the back and have a hole to shine through
 
+https://cdn.phototourl.com/free/2026-08-14-bb5324b8-3c57-4740-8c53-ca2875367040.webp
+
+https://cdn.phototourl.com/free/2026-08-14-2dcdc610-ba33-4833-9f9d-150a059c6909.png
+
 i also switched it to back copper and i finally fixed every pcb warning and error (209)
 
+https://cdn.phototourl.com/free/2026-08-14-fb163dd6-1428-43de-a129-8ac2ebec5188.png
+
 i have now added silkscreen, which means there will be errors but they're all cosmetic soooo its fineeee :)
+
+(this is another reenactment, just pretend that all the silkscreen violations are obsolete)
+<img width="662" height="504" alt="Screenshot 2026-08-24 at 9 26 43 AM" src="https://github.com/user-attachments/assets/dac3d58a-4d70-4d4f-b246-d29168d257a5" />
+
+https://cdn.phototourl.com/free/2026-08-17-d89a887b-1f1f-422b-9688-a50732051218.png
+
+https://cdn.phototourl.com/free/2026-08-18-bad09f30-7c7e-4a81-ac93-e558f269b94c.png
 
 ---
 
@@ -88,7 +112,7 @@ but anyways, im done!
 i also connected more diodes and switches
 
 2 hrs 
-<img width="324" height="435" alt="Screenshot 2026-08-24 at 9 14 50 AM" src="https://github.com/user-attachments/assets/92026b3e-670f-459d-8a5c-c107367609d1" />
+<img width="324" height="435" alt="Screenshot 2026-08-24 at 9 14 50 AM" src="https://github.com/user-attachments/assets/92026b3e-670f-459d-8a5c-c107367609d1" />
 
 ### 08/04/2026
 
@@ -101,7 +125,7 @@ upd: i did the first, and tried the second. it didnt work so im doing that tmr
 
 2 hrs 
 (this is a reenactment of the leds, the leds were still labeled "d". so please pretend that they are labeled "d" instead of "led"
-<img width="739" height="755" alt="Screenshot 2026-08-24 at 9 21 53 AM" src="https://github.com/user-attachments/assets/87125486-7ea1-443e-9d0c-73da04db7c8d" />
+<img width="739" height="755" alt="Screenshot 2026-08-24 at 9 21 53 AM" src="https://github.com/user-attachments/assets/87125486-7ea1-443e-9d0c-73da04db7c8d" />
 
 ### 08/06/2026
 
@@ -112,7 +136,7 @@ my brain's fried so i didnt get to add much else. also, this is taking quite a b
 just getting really tired of doing kicad. really confusing. hundreds of errors and warnings
 
 4 hrs :(
-<img width="1240" height="610" alt="Screenshot 2026-08-24 at 9 24 46 AM" src="https://github.com/user-attachments/assets/96445b42-f1df-40c8-93dc-10a9d57dd6d2" />
+<img width="1240" height="610" alt="Screenshot 2026-08-24 at 9 24 46 AM" src="https://github.com/user-attachments/assets/96445b42-f1df-40c8-93dc-10a9d57dd6d2" />
 
 ### 08/09/2026
 
@@ -203,6 +227,8 @@ i also decided that it would be black with red accents (like my kitchen lol) and
 
 6 hrs
 
+<img width="662" height="504" alt="Screenshot 2026-08-24 at 9 26 43 AM" src="https://github.com/user-attachments/assets/dac3d58a-4d70-4d4f-b246-d29168d257a5" />
+(this is another reenactment, just pretend that all the silkscreen violations are obsolete)
 ### 08/16/2026
 
 ok ehm i took a day break but i did some bit of progress
