@@ -102,22 +102,17 @@ upd: i did the first, and tried the second. it didnt work so im doing that tmr
 2 hrs 
 (this is a reenactment of the leds, the leds were still labeled "d". so please pretend that they are labeled "d" instead of "led"
 <img width="739" height="755" alt="Screenshot 2026-08-24 at 9 21 53 AM" src="https://github.com/user-attachments/assets/87125486-7ea1-443e-9d0c-73da04db7c8d" />
-### 08/05/2026
-
-hello, im doing the hotswap switches rn. i gave it a shot yesterday, but it completely sh*tted my brain so i'm doing it today
-
-1 hr
 
 ### 08/06/2026
 
 ok. i decided im gonna go with millmax hotswap switches. theyre really expensive but i think we could do it
 
-my brain was fried so i didnt get to add much else. also, this is taking quite a bit of time so i kinda wanna just wrap this up. so yh i might cut a few stuff
+my brain's fried so i didnt get to add much else. also, this is taking quite a bit of time so i kinda wanna just wrap this up. so yh i might cut a few stuff
 
 just getting really tired of doing kicad. really confusing. hundreds of errors and warnings
 
 4 hrs :(
-
+<img width="1240" height="610" alt="Screenshot 2026-08-24 at 9 24 46 AM" src="https://github.com/user-attachments/assets/96445b42-f1df-40c8-93dc-10a9d57dd6d2" />
 
 ### 08/09/2026
 
