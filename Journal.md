@@ -1,4 +1,3 @@
-<img width="739" height="755" alt="Screenshot 2026-08-24 at 9 21 53 AM" src="https://github.com/user-attachments/assets/87125486-7ea1-443e-9d0c-73da04db7c8d" />
 **Refined version**, cuz my actual journal sucks and is really messy. recommended to read this one!!!
 
 **NOTE: I do not inflate my hours. I just am really slow. And this is my first ship, so i have a lot of stuff to learn.**
@@ -101,7 +100,8 @@ hello! so i took a little break from keeb, heres whats going on!
 upd: i did the first, and tried the second. it didnt work so im doing that tmr
 
 2 hrs 
-
+(this is a reenactment of the leds, the leds were still labeled "d". so please pretend that they are labeled "d" instead of "led"
+<img width="739" height="755" alt="Screenshot 2026-08-24 at 9 21 53 AM" src="https://github.com/user-attachments/assets/87125486-7ea1-443e-9d0c-73da04db7c8d" />
 ### 08/05/2026
 
 hello, im doing the hotswap switches rn. i gave it a shot yesterday, but it completely sh*tted my brain so i'm doing it today
