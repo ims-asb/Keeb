@@ -85,9 +85,10 @@ gn! (all day, 12 hrs. kicad is hard lol)
 by the way, i needed 2 pins extra for the actual keys. so i had to add a part (which i hate), the mcp23017. this gives me some more pins i could use.
 
 but anyways, im done!
+i also connected more diodes and switches
 
-3 hrs 
-<img width="634" height="598" alt="Screenshot 2026-07-19 at 8 47 33 PM" src="https://github.com/user-attachments/assets/63ae5344-140e-41c3-860b-28e940a5e94f" />
+2 hrs 
+<img width="324" height="435" alt="Screenshot 2026-08-24 at 9 14 50 AM" src="https://github.com/user-attachments/assets/92026b3e-670f-459d-8a5c-c107367609d1" />
 
 ### 08/04/2026
 
@@ -108,7 +109,7 @@ hello, im doing the hotswap switches rn. i gave it a shot yesterday, but it comp
 
 ### 08/06/2026
 
-ok. i decided im gonna go with millmax hotswap switches
+ok. i decided im gonna go with millmax hotswap switches. theyre really expensive but i think we could do it
 
 my brain was fried so i didnt get to add much else. also, this is taking quite a bit of time so i kinda wanna just wrap this up. so yh i might cut a few stuff
 
@@ -121,11 +122,11 @@ just getting really tired of doing kicad. really confusing. hundreds of errors a
 
 hello, so ehm there was a lot of problems, i fixed them
 
-example of that, the pads with the diodes n stuff, yeah, they were glued together. i almost crashed out 😭 this is kinda insane
+example of that, the pads with the diodes and leds,, yeah, they were glued together to the switch pad. i almost crashed out 😭 this is kinda insane
 
 uhm, yeah thats basically what happend 💀 there were some other led problems
 
-and yeah, mill-max switches are too expensive so i switched to kalih hotswap switches, theyre cheaper
+and yeah, i ran the numbers and mill-max switches are too expensive. so i switched to kalih hotswap switches, theyre cheaper
 
 4 hrs
 
