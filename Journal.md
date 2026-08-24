@@ -1,3 +1,4 @@
+<img width="739" height="755" alt="Screenshot 2026-08-24 at 9 21 53 AM" src="https://github.com/user-attachments/assets/87125486-7ea1-443e-9d0c-73da04db7c8d" />
 **Refined version**, cuz my actual journal sucks and is really messy. recommended to read this one!!!
 
 **NOTE: I do not inflate my hours. I just am really slow. And this is my first ship, so i have a lot of stuff to learn.**
@@ -14,7 +15,7 @@ I used KLE (https://www.keyboard-layout-editor.com/) to make a layout for my key
 
 So what i did between this time, i learned kicad, how to add stuff, wire, etc
 
-also learned about label connections — instead of drawing a wire across the schematic to connect some stuff, i can just slap a label on both ends and kicad counts them as labeled
+also learned about label connections. basically, instead of drawing a wire across the schematic to connect some stuff, i can just slap a label on both ends and kicad counts them as labeled
 
 <img width="1680" height="741" alt="Screenshot 2026-08-24 at 8 59 00 AM" src="https://github.com/user-attachments/assets/96aadf3b-413b-4e70-8297-52288de3504c" />
 
