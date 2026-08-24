@@ -122,7 +122,7 @@ just getting really tired of doing kicad. really confusing. hundreds of errors a
 
 hello, so ehm there was a lot of problems, i fixed them
 
-example of that, the pads with the diodes and leds,, yeah, they were glued together to the switch pad. i almost crashed out 😭 this is kinda insane
+example of that, the pads with the diodes, they were glued together to the switch pad. i almost crashed out 😭 this is kinda insane
 
 uhm, yeah thats basically what happend 💀 there were some other led problems
 
