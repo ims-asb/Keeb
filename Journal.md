@@ -51,8 +51,9 @@ i also switched it to back copper
 and i finally fixed every pcb warning and error (209)
 i have now added silkscreen, which means there will be errors
 but they're all cosmetic soooo
-its fine
+its fineeee
 :)
+
 *NORMAL JOURNAL*
 so my idea for a keyboard for keeb is
 a modified 96% ANSI keyboard with, for the twist,
@@ -252,10 +253,3 @@ https://cdn.phototourl.com/free/2026-08-20-d2a7ba99-6f4e-4003-87d0-d18526cfb18e.
 very wow
 absoultely amazing job
 4 hrs
-08/19/2026
-had legal camp, so nothing
-0 hrs
-08/20/2026
-casey casey! eggs and bakey!
-finished my legal homework, so i have a bit of time
-ok
