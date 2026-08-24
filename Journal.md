@@ -90,7 +90,6 @@ by the way, i needed 2 pins extra for the actual keys. so i had to add a part (w
 but anyways, im done!
 i did some work yesterday, but i was too tired and forgot to submit the log for yesterday, so yeah
 3 hrs yesterday + 3 hrs today
-![image](https://www.image2url.com/r2/default/images/1785875910738-761ad884-d899-49cd-9d88-cac45d9b5978.png)
 08/04/2026
 hello!
 so i took a little break from keeb, heres whats going on!
