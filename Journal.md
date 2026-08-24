@@ -14,8 +14,7 @@ to connect some stuff
 i can just slap a label
 on both ends
 and kicad counts them as labeled
-<img width="1500" height="880" alt="Screenshot 2026-07-19 at 8 52 14 PM" src="https://github.com/user-attachments/assets/d801cca3-aa73-4f59-8101-7fdd556314d5" />
-
+<img width="1680" height="741" alt="Screenshot 2026-08-24 at 8 59 00 AM" src="https://github.com/user-attachments/assets/96aadf3b-413b-4e70-8297-52288de3504c" />
 07/25/2026-08/01/2026
 Only really did two days, cuz my dad grounded me for the rest
 I added the MCP23017, basically to expand my pin count a bit
