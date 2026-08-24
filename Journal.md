@@ -51,26 +51,28 @@ i have now added silkscreen, which means there will be errors but they're all co
 ---
 
 ## *NORMAL JOURNAL*
-
+## 07/17/2026
 so my idea for a keyboard for keeb is a modified 96% ANSI keyboard with, for the twist, an oled screen, a I2C knob, RGB underglow, and potentially 8K polling
 
 im gonna use the Orpheus Pico as the MCU
 
 and yeah, more updates coming later
 
-### ok. updates!! 07/17/2026
+### ok. updates!!
 
 we gonna get a 0.91" I2C OLED and yeah, about 23 GPIO pins used
 
 <img width="1500" height="880" alt="Screenshot 2026-07-19 at 8 52 14 PM" src="https://github.com/user-attachments/assets/d801cca3-aa73-4f59-8101-7fdd556314d5" />
 
 more stuff, too lazy to do tho
-
+1 hr
 ### 07/19/2026
 
 uhhhh
 
-no. we are not getting a orpheus pico so we gonna get the nice!nano which supports eventually 8k polling which i want
+no. we are not getting a orpheus pico 
+
+so we gonna get the nice!nano which supports eventually 8k polling which i want
 
 but yeah, im working on the PCB design, specifically connecting them diodes and switches, and learning how kicad works in general
 
@@ -82,9 +84,10 @@ gn! (all day, 12 hrs. kicad is hard lol)
 
 by the way, i needed 2 pins extra for the actual keys. so i had to add a part (which i hate), the mcp23017. this gives me some more pins i could use.
 
-but anyways, im done! i did some work yesterday, but i was too tired and forgot to submit the log for yesterday, so yeah
+but anyways, im done!
 
-3 hrs yesterday + 3 hrs today
+3 hrs 
+<img width="634" height="598" alt="Screenshot 2026-07-19 at 8 47 33 PM" src="https://github.com/user-attachments/assets/63ae5344-140e-41c3-860b-28e940a5e94f" />
 
 ### 08/04/2026
 
@@ -95,7 +98,7 @@ hello! so i took a little break from keeb, heres whats going on!
 
 upd: i did the first, and tried the second. it didnt work so im doing that tmr
 
-2 hrs today
+2 hrs 
 
 ### 08/05/2026
 
@@ -113,7 +116,6 @@ just getting really tired of doing kicad. really confusing. hundreds of errors a
 
 4 hrs :(
 
-(i sadly dont have a photo for this. really tired)
 
 ### 08/09/2026
 
