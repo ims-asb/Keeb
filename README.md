@@ -20,7 +20,8 @@ I wanted to make this because I am in a very bad need for a keyboard, and this i
 
 (i can also get it for free, lol)
 ## CAD renders, PCB and schematic pcs
-
+<img width="1247" height="447" alt="Screenshot 2026-09-04 at 5 52 49 PM" src="https://github.com/user-attachments/assets/e0aff869-0162-4d1b-86d2-fd097f5a4c2a" />
+<img width="1055" height="936" alt="Screenshot 2026-09-04 at 6 02 47 PM" src="https://github.com/user-attachments/assets/c86aa337-74cf-4807-9692-f42d6926687d" />
 ( cad renders are wip!)
 
 ## BOM
