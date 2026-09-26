@@ -264,41 +264,79 @@ very wow absoultely amazing job
 4 hr
 ### somewhere between now, 9/26/2026, since i lost a bunch of journal time. i have unfortunately no photos, sorry abou that. just trust me on this
 so 
+
 uhh
+
 yeah. i tried really hard on the case
+
 i suck at cad modeling
+
 i tried onshape
+
 looked at every tutorial in the book
+
 still didnt work 😭
+
 but
+
 for funsies
+
 i tried this zoo.dev thing
+
 that suppposedly can make cad modeling very very easy
+
 i told it to do some stuff
+
 it shat out sh*t
+
 so i dropped that
+
 im still case and plateless
+
 but
+
 on the brighter side
+
 instead of doing of doing a buncha foam tape like a dumb ahh
+
 i finally looked at a few custom keyboard videos (thanks ltt)
+
 and i can just buy gaskets off of some places... lol
+
 and 
+
 also
+
 i found some peak switches
+
 huano sakura v2s
+
 35g actuation
+
 and 5 pin!
+
 which is peak
+
 and then
+
 i looked into the 8k stuff
+
 and apparently ive been lied to
+
 cuz i saw some place
+
 that said the nrf was usb hs (2.0+)
+
 but its actually full speed (1.0+)
+
 so
+
 yeah
+
 so i landed on the stm32f405 and separate usb3300 phy chip + nrf24l01 for the radio
+
 and
+
 guess what??
+
 the stm doesnt have hs either
