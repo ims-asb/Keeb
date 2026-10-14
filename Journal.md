@@ -317,26 +317,17 @@ and 5 pin!
 
 which is peak
 
-and then
+10/14/2026
+Hello.
 
-i looked into the 8k stuff
+My dad took my mac for a while so i couldn't really make some updates.
 
-and apparently ive been lied to
+But here's what i've done so far:
 
-cuz i saw some place
+I moved the nano to the bottom to compensate for the new mount im using (gasket sandwich mount)
 
-that said the nrf was usb hs (2.0+)
+I learned onshape and the general gist of it (2d shapes -> 3D space)
 
-but its actually full speed (1.0+)
+and I guess i can fit a 10k mah battery in there to compete with the commercialized peeps
 
-so
-
-yeah
-
-so i landed on the stm32f405 and separate usb3300 phy chip + nrf24l01 for the radio
-
-and
-
-guess what??
-
-the stm doesnt have hs either
+4 hrs
