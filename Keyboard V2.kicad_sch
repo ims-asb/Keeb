@@ -8083,7 +8083,7 @@
 		)
 		(uuid "13487b13-f126-4daf-b32d-999bbf4384eb")
 	)
-	(label "CHAIN3"
+	(label "CHAIN2"
 		(at 228.6 222.25 180)
 		(effects
 			(font
@@ -8653,7 +8653,7 @@
 		)
 		(uuid "3a2a51aa-27f1-408b-b239-dae202fd3d8e")
 	)
-	(label "CHAIN3"
+	(label "CHAIN7"
 		(at 76.2 307.34 0)
 		(effects
 			(font
@@ -8693,7 +8693,7 @@
 		)
 		(uuid "3ff59ba2-2f64-412f-b593-f390d20c6bef")
 	)
-	(label "CHAIN3"
+	(label "CHAIN1"
 		(at 76.2 205.74 0)
 		(effects
 			(font
@@ -9053,7 +9053,7 @@
 		)
 		(uuid "5de1c951-4481-4774-a507-06a3b04ca516")
 	)
-	(label "CHAIN3"
+	(label "CHAIN6"
 		(at 228.6 290.83 180)
 		(effects
 			(font
@@ -9943,6 +9943,16 @@
 		)
 		(uuid "9e42f560-75e8-48b1-bc03-3c4ffc4665f4")
 	)
+		(label "COL7"
+		(at 167.64 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c1d5d207-a2b5-4f45-909b-629ab337ea9e")
+	)
 	(label "BAT+"
 		(at 205.74 262.89 180)
 		(effects
@@ -10033,7 +10043,7 @@
 		)
 		(uuid "a899fa28-e881-41e9-ac4d-c3ab197bfa2b")
 	)
-	(label "CHAIN3"
+	(label "CHAIN9"
 		(at 76.2 341.63 0)
 		(effects
 			(font
@@ -10193,7 +10203,7 @@
 		)
 		(uuid "b5b4d6e4-c1e4-41b5-b225-a6f1f84df3e0")
 	)
-	(label "CHAIN3"
+	(label "CHAIN8"
 		(at 228.6 325.12 180)
 		(effects
 			(font
@@ -10543,7 +10553,7 @@
 		)
 		(uuid "c4e55cb8-66b6-4589-bda2-79cdf539e045")
 	)
-	(label "CHAIN3"
+	(label "CHAIN5"
 		(at 76.2 271.78 0)
 		(effects
 			(font
@@ -10572,16 +10582,6 @@
 			(justify left bottom)
 		)
 		(uuid "c77f63d8-54c7-4aa0-9474-607f96691e4d")
-	)
-	(label "GND"
-		(at 99.06 350.52 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c83afb6b-b3f5-40e0-a7e2-714af82e0c60")
 	)
 	(label "BAT+"
 		(at 114.3 334.01 0)
@@ -10753,7 +10753,7 @@
 		)
 		(uuid "d07e5d9c-30f6-4d52-93ec-492bcfcf44bf")
 	)
-	(label "CHAIN3"
+	(label "CHAIN4"
 		(at 228.6 255.27 180)
 		(effects
 			(font
@@ -10793,7 +10793,7 @@
 		)
 		(uuid "d49662b7-0173-4603-a038-72535b1367cf")
 	)
-	(label "CHAIN3"
+	(label "CHAIN10"
 		(at 228.6 358.14 180)
 		(effects
 			(font
@@ -10893,7 +10893,7 @@
 		)
 		(uuid "d9fd988f-e32b-4beb-9c61-5aa1892dfc21")
 	)
-	(label "CHAIN3"
+	(label "CHAIN1"
 		(at 223.52 165.1 90)
 		(effects
 			(font
